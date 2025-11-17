@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Lamborghini Sigma</title>
+    <link>https://lamborghini-sigma.vercel.app/</link>
+    <description>The official Lamborghini Sigma showcase — Home, About, Models, Information, Contact.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Nov 2025 12:00:00 GMT</lastBuildDate>
+
+    <!-- Home -->
+    <item>
+      <title>Home Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#home</link>
+      <description>Main landing section of Lamborghini Sigma.</description>
+      <guid>https://lamborghini-sigma.vercel.app/#home</guid>
+    </item>
+
+    <!-- About -->
+    <item>
+      <title>About Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#about</link>
+      <description>About Lamborghini Sigma and brand overview.</description>
+      <guid>https://lamborghini-sigma.vercel.app/#about</guid>
+    </item>
+
+    <!-- Models -->
+    <item>
+      <title>Models Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#models</link>
+      <description>Explore Lamborghini Aventador models.</description>
+      <guid>https://lamborghini-sigma.vercel.app/#models</guid>
+    </item>
+
+    <!-- Information -->
+    <item>
+      <title>Information Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#info</link>
+      <description>Technical information and details.</description>
+      <guid>https://lamborghini-sigma.vercel.app/#info</guid>
+    </item>
+
+    <!-- Contact -->
+    <item>
+      <title>Contact Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#contact</link>
+      <description>Contact Lamborghini Sigma.</description>
+      <guid>https://lamborghini-sigma.vercel.app/#contact</guid>
+    </item>
+
+  </channel>
+</rss>
