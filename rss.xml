@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Lamborghini Sigma</title>
+    <link>https://lamborghini-sigma.vercel.app/</link>
+    <description>Latest sections from Lamborghini Sigma website</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Home Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#home</link>
+      <description>The main landing section of Lamborghini Sigma.</description>
+    </item>
+
+    <item>
+      <title>About Section</title>
+      <link>https://lamborghini-sigma.vercel.app/#about</link>
+      <description>Information about Lamborghini Sigma.</description>
+    </item>
+
+    <item>
+      <title>Models</title>
+      <link>https://lamborghini-sigma.vercel.app/#models</link>
+      <description>All Lamborghini car models displayed on the site.</description>
+    </item>
+
+    <item>
+      <title>Information</title>
+      <link>https://lamborghini-sigma.vercel.app/#info</link>
+      <description>General information section of the site.</description>
+    </item>
+
+    <item>
+      <title>Contact</title>
+      <link>https://lamborghini-sigma.vercel.app/#contact</link>
+      <description>Contact section to reach Lamborghini Sigma.</description>
+    </item>
+
+  </channel>
+</rss>
