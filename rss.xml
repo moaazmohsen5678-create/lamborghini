@@ -1,40 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Lamborghini Sigma</title>
-    <link>https://lamborghini-sigma.vercel.app/</link>
-    <description>Latest sections from Lamborghini Sigma website</description>
-    <language>en-us</language>
+<channel>
+<title>Lamborghini Sigma</title>
+<link>https://lamborghini-sigma.vercel.app/</link>
+<description>موقع Lamborghini Sigma المختص بعرض أحدث موديلات لامبورجيني</description>
+<language>ar</language>
+<lastBuildDate>Mon, 17 Nov 2025 09:00:00 +0200</lastBuildDate>
 
-    <item>
-      <title>Home Section</title>
-      <link>https://lamborghini-sigma.vercel.app/#home</link>
-      <description>The main landing section of Lamborghini Sigma.</description>
-    </item>
+<!-- الصفحة الرئيسية -->
+<item>
+<title>الصفحة الرئيسية</title>
+<link>https://lamborghini-sigma.vercel.app/#home</link>
+<pubDate>Mon, 17 Nov 2025 09:00:00 +0200</pubDate>
+<description>القسم الرئيسي لموقع Lamborghini Sigma</description>
+</item>
 
-    <item>
-      <title>About Section</title>
-      <link>https://lamborghini-sigma.vercel.app/#about</link>
-      <description>Information about Lamborghini Sigma.</description>
-    </item>
+<!-- About -->
+<item>
+<title>عن الموقع</title>
+<link>https://lamborghini-sigma.vercel.app/#about</link>
+<pubDate>Mon, 17 Nov 2025 09:00:00 +0200</pubDate>
+<description>معلومات عن موقع Lamborghini Sigma</description>
+</item>
 
-    <item>
-      <title>Models</title>
-      <link>https://lamborghini-sigma.vercel.app/#models</link>
-      <description>All Lamborghini car models displayed on the site.</description>
-    </item>
+<!-- Models -->
+<item>
+<title>موديلات لامبورجيني</title>
+<link>https://lamborghini-sigma.vercel.app/#models</link>
+<pubDate>Mon, 17 Nov 2025 09:00:00 +0200</pubDate>
+<description>عرض أحدث موديلات سيارات لامبورجيني</description>
+</item>
 
-    <item>
-      <title>Information</title>
-      <link>https://lamborghini-sigma.vercel.app/#info</link>
-      <description>General information section of the site.</description>
-    </item>
+<!-- Info -->
+<item>
+<title>معلومات</title>
+<link>https://lamborghini-sigma.vercel.app/#info</link>
+<pubDate>Mon, 17 Nov 2025 09:00:00 +0200</pubDate>
+<description>قسم المعلومات العامة الخاصة بالموقع</description>
+</item>
 
-    <item>
-      <title>Contact</title>
-      <link>https://lamborghini-sigma.vercel.app/#contact</link>
-      <description>Contact section to reach Lamborghini Sigma.</description>
-    </item>
+<!-- Contact -->
+<item>
+<title>تواصل معنا</title>
+<link>https://lamborghini-sigma.vercel.app/#contact</link>
+<pubDate>Mon, 17 Nov 2025 09:00:00 +0200</pubDate>
+<description>طرق التواصل مع Lamborghini Sigma</description>
+</item>
 
-  </channel>
+</channel>
 </rss>
